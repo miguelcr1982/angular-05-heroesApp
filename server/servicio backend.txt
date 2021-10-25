@@ -1,0 +1,6 @@
+Se instala globalmente la primera vez
+npm install -g json-server
+
+
+Luego se ejecuta
+json-server --watch db.json
